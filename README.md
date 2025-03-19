@@ -1,30 +1,28 @@
-# Challenge Amigo Secreto
+# Desafío Amigo Secreto
 
-## Overview
-This project is a simple web application that allows users to manage a list of friends and randomly select a "secret friend" for gift exchanges. It provides a user-friendly interface to add friends and view the list of friends, along with the ability to randomly select one.
+## Descripción General
+Este proyecto es una aplicación web sencilla que permite a los usuarios gestionar una lista de amigos y seleccionar aleatoriamente un "amigo secreto" para intercambios de regalos. Proporciona una interfaz fácil de usar para agregar amigos y ver la lista de amigos, junto con la capacidad de seleccionar uno al azar.
 
-## Files
-- **app.js**: Contains the main JavaScript logic for managing the friends list and selecting a secret friend.
-- **index.html**: The main HTML document that structures the web page and links to the CSS and JavaScript files.
-- **styles.css**: Contains the styles for the application, defining the visual appearance of the web page.
-- **README.md**: Documentation for the project, including an overview, setup instructions, and usage details.
+## Archivos
+- **app.js**: Contiene la lógica principal en JavaScript para gestionar la lista de amigos y seleccionar un amigo secreto.
+- **index.html**: El documento HTML principal que estructura la página web y vincula los archivos CSS y JavaScript.
+- **styles.css**: Contiene los estilos de la aplicación, definiendo la apariencia visual de la página web.
+- **README.md**: Documentación del proyecto, que incluye una descripción general, instrucciones de configuración y detalles de uso.
 
-## Setup Instructions
-1. Clone the repository to your local machine using:
+## Instrucciones de Configuración
+1. Clona el repositorio en tu máquina local usando:
    ```
-   git clone <repository-url>
+   git clone <url-del-repositorio>
    ```
-2. Navigate to the project directory:
+2. Navega al directorio del proyecto:
    ```
    cd challenge-amigo-secreto_esp-main
    ```
-3. Open `index.html` in your web browser to view the application.
+3. Abre `index.html` en tu navegador web para ver la aplicación.
 
-## Usage
-1. Enter a friend's name in the input field and click the "Agregar Amigo" button to add them to the list.
-2. The list of friends will be updated automatically.
-3. Click the "Sortear Amigo" button to randomly select a secret friend from the list.
-4. The result will be displayed on the page.
+## Uso
+1. Ingresa el nombre de un amigo en el campo de entrada y haz clic en el botón "Agregar Amigo" para añadirlo a la lista.
+2. La lista de amigos se actualizará automáticamente.
+3. Haz clic en el botón "Sortear Amigo" para seleccionar aleatoriamente un amigo secreto de la lista.
+4. El resultado se mostrará en la página.
 
-## Contributing
-Feel free to fork the repository and submit pull requests for any improvements or features you'd like to add.
